@@ -1,0 +1,174 @@
+body
+{
+	font-family: Verdana, Georgia, "Times New Roman", Times, serif; 
+	width: 800px;
+	margin: auto;
+	font-size: 14px;
+}
+
+section
+{
+	margin-bottom: 50px;
+}
+
+header
+{
+	border-radius: 5px;
+	padding:3px;
+	border: 1px solid black;
+	margin:auto;
+	top:2px;
+	margin-bottom:2px;
+	background-color:#E6F0EE;
+}
+
+table.publiTable
+{
+	width: 100%;
+	border: 0;
+	border-spacing: 15px 10px;
+    border-collapse: separate;
+	padding: 0px;
+}
+table.publiTable td    
+{
+	padding: 5px;
+}
+
+table.cvTable
+{
+	border-spacing: 30px 2px;
+}
+
+div.divimg
+{
+	text-align:center;
+}
+
+div.divphoto
+{
+	text-align:center;
+	display:inline-block;
+	vertical-align: top;
+	padding:2px;
+	margin-right:30px;
+}
+
+nav
+{
+	width:99%;
+	border-radius: 5px;
+	padding:2px;
+	display: inline-block;
+	vertical-align: top;
+	margin-top:2px;
+}
+
+h1
+{
+	font-size:30px;
+	text-align:left;
+}
+
+h2
+{
+	font-size: 25px;
+}
+
+h3
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+p
+{
+	font-size: 14px;
+    color:#333C3B;
+}
+
+a:hover 
+{ 
+	color:#8895b8; 
+	border:none; 
+}
+
+a:visited
+{
+	color:#8895b8; 
+}
+
+a 
+{ 
+	text-decoration: none;
+	font: Verdana, Georgia, "Times New Roman", Times, serif; 
+	color:#68759c;
+}
+
+a.paper 
+{ 
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	font: Verdana, Georgia, "Times New Roman", Times, serif; 
+	color:#68759c;
+}
+a.paper:hover
+{ 
+	color:#8895b8;
+}
+
+a.code 
+{ 
+	text-decoration: none;
+	font-size: 16px;
+	font-weight: bold;
+	font: Verdana, Georgia, "Times New Roman", Times, serif; 
+	color:#343a4e;
+}
+a.code:hover 
+{
+	color:#5c6171;
+}
+
+ul, ol {
+	list-style-type: none;
+    margin:0;
+    padding-left:0;
+}
+
+ul.navig 
+{ 
+	margin:0; 
+	padding:0; 
+	list-style-type:none; 
+}
+
+ul.navig li 
+{ 
+	position:relative; 
+	float:left; 
+	border-top:4px solid #efefef; 
+	margin-right: 15px; 
+	padding-right: 20px; 
+	padding-top: 5px;
+}
+ul.navig li:hover 
+{ 
+	border-top:4px solid #3d496a;
+}
+
+ul.navig li a 
+{ 
+	padding:2px 2px;
+	text-decoration:none; 
+	font-weight: bold; 
+	font-size: 18px; 
+	font: Verdana, Georgia, "Times New Roman", Times, serif; 
+	color:#68759c;
+}
+ul.navig li a:hover 
+{ 
+	color:#8895b8; 
+	border:none; 
+}
