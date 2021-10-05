@@ -105,6 +105,18 @@ a
 	color:#68759c;
 }
 
+a.award 
+{ 
+	border-radius: 10px;
+	background: #f4be41;
+	padding: 5px; 
+	width: 200px;
+	height: 150px;
+	text-decoration: none;
+	font: Verdana, Georgia, "Times New Roman", Times, serif; 
+	font-weight: bold;
+	color:#ba4b1f;
+}
 a.paper 
 { 
 	text-decoration: none;
